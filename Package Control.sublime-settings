@@ -1,11 +1,12 @@
 {
-	"auto_upgrade_last_run": 1353775914,
+	"auto_upgrade_last_run": 1353784668,
 	"installed_packages":
 	[
 		"Alignment",
 		"ColorPick",
 		"Gist",
 		"Git",
+		"Inc-Dec-Value",
 		"Markdown Preview",
 		"Package Control",
 		"SCSS",
