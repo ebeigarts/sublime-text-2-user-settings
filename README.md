@@ -9,7 +9,7 @@ $ git clone git://github.com/ebeigarts/sublime-text-2-user-setitngs \
 
 ## Shortcuts
 
-* `⌃⌥⌘P` - preview Markdown
+* `⌃⌥⌘P` - run my [Markdown Preview](https://github.com/ebeigarts/sublimetext-markdown-preview)
 * `⌘R` - run current RSpec file in iTerm
 * `⌘⇧R` - run the current test in RSpec file in iTerm
 
