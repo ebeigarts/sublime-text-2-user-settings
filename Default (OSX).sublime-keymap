@@ -1,5 +1,6 @@
 [
 	{ "keys": ["ctrl+alt+super+p"], "command": "markdown_preview", "args": {"target": "browser"} },
 	{ "keys": ["super+r"], "command": "run_tests", "args": {"single": false} },
-	{ "keys": ["super+shift+r"], "command": "run_tests", "args": {"single": true} }
+	{ "keys": ["super+shift+r"], "command": "run_tests", "args": {"single": true} },
+	{ "keys": ["super+shift+o"], "command": "open_rspec_file", "args": {"option": "next"} }
 ]
